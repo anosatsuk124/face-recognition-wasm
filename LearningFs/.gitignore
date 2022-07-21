@@ -1,2 +1,4 @@
 /.paket
 /paket-files
+/**/.ipynb_checkpoints
+/**/.virtual_documents
